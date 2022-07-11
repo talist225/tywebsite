@@ -124,6 +124,7 @@ nav > ul > li > a:hover:after {
   border: 2px solid #fff;
   display: flex;
   align-items: center;
+  transition: 0.5s;
 }
 
 .row > a:hover {
